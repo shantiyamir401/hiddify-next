@@ -22,7 +22,7 @@
         "emptyProfilesMsg": "با افزودن پروفایل شروع کنید",
         "noActiveProfileMsg": "یک پروفایل انتخاب کنید",
         "connection": {
-            "tapToConnect": "برای اتصال ضربه بزنید",
+            "tapToConnect": "برای متصل شدن ضربه بزنید",
             "connecting": "در حال اتصال",
             "disconnecting": "در حال قطع اتصال",
             "connected": "متصل"
